@@ -1,0 +1,12 @@
+{
+  "name": "backend-foodtech-project",
+  "version": "1.0.0",
+  "description": "This is the BackEnd Repository for the Food Tech Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": []
+}
